@@ -1,0 +1,14 @@
+Epoch 1: Train Loss: 1.8322| Train Accuracy: 34.21% , Val Loss: 1.6373| Val Accuracy: 36.85% , Test Loss: 1.6515| Test Accuracy: 37.68%
+Epoch 2: Train Loss: 1.8328| Train Accuracy: 32.28% , Val Loss: 1.8607| Val Accuracy: 27.17% , Test Loss: 1.8790| Test Accuracy: 27.40%
+Epoch 3: Train Loss: 1.1768| Train Accuracy: 54.52% , Val Loss: 1.0666| Val Accuracy: 57.60% , Test Loss: 1.0682| Test Accuracy: 57.28%
+Epoch 4: Train Loss: 0.6374| Train Accuracy: 79.12% , Val Loss: 0.4641| Val Accuracy: 85.70% , Test Loss: 0.4420| Test Accuracy: 86.43%
+Epoch 5: Train Loss: 0.3613| Train Accuracy: 89.37% , Val Loss: 0.3329| Val Accuracy: 90.23% , Test Loss: 0.3270| Test Accuracy: 90.74%
+Epoch 6: Train Loss: 0.2990| Train Accuracy: 91.16% , Val Loss: 0.2921| Val Accuracy: 91.55% , Test Loss: 0.2876| Test Accuracy: 91.73%
+Epoch 7: Train Loss: 0.2645| Train Accuracy: 92.20% , Val Loss: 0.2703| Val Accuracy: 92.30% , Test Loss: 0.2635| Test Accuracy: 92.22%
+Epoch 8: Train Loss: 0.2439| Train Accuracy: 92.81% , Val Loss: 0.2602| Val Accuracy: 92.48% , Test Loss: 0.2526| Test Accuracy: 92.51%
+Epoch 9: Train Loss: 0.2317| Train Accuracy: 93.23% , Val Loss: 0.2522| Val Accuracy: 92.57% , Test Loss: 0.2457| Test Accuracy: 92.67%
+Epoch 10: Train Loss: 0.2239| Train Accuracy: 93.46% , Val Loss: 0.2472| Val Accuracy: 92.78% , Test Loss: 0.2419| Test Accuracy: 92.75%
+Epoch 11: Train Loss: 0.2187| Train Accuracy: 93.61% , Val Loss: 0.2436| Val Accuracy: 92.90% , Test Loss: 0.2386| Test Accuracy: 92.86%
+Epoch 12: Train Loss: 0.2151| Train Accuracy: 93.72% , Val Loss: 0.2410| Val Accuracy: 93.03% , Test Loss: 0.2361| Test Accuracy: 92.96%
+Epoch 13: Train Loss: 0.2127| Train Accuracy: 93.82% , Val Loss: 0.2393| Val Accuracy: 93.05% , Test Loss: 0.2348| Test Accuracy: 92.97%
+Epoch 14: Train Loss: 0.2110| Train Accuracy: 93.86% , Val Loss: 0.2381| Val Accuracy: 93.03% , Test Loss: 0.2339| Test Accuracy: 93.01%
